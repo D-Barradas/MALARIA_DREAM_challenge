@@ -1,0 +1,474 @@
+#node	x_position	y_position	color	annotation
+PFD0015c	0.87106901920083	0.828048780487805	rgb(117,239,239)	Rifin
+PF14_0147	0.487156201349248	0.348536585365854	rgb(136,239,117)	ATP-dependent protease, putative; Belongs to the peptidase S16 family
+PF10_0098	0.194317592112091	0.381707317073171	rgb(239,219,117)	Conserved Plasmodium protein
+PF11_0264	0.501634665282823	0.721219512195122	rgb(204,239,117)	DNA-directed RNA polymerase; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates
+PF11_0290	0.305474831344058	0.156341463414634	rgb(201,239,117)	Conserved Plasmodium protein
+PFI0910w	0.683316035288012	0.48219512195122	rgb(117,117,239)	Uncharacterized protein; DNA helicase, putative
+PFF0815w	0.347509081473793	0.348048780487805	rgb(117,149,239)	Uncharacterized protein; Malate:quinone oxidoreductase, putative
+PF11_0440	0.8547223663726	0.340731707317073	rgb(189,239,117)	Conserved Plasmodium protein
+PFE1610w	0.285391800726518	0.742682926829268	rgb(117,178,239)	Uncharacterized protein
+PFL0850w	0.662298910223145	0.517804878048781	rgb(117,117,239)	Uncharacterized protein; Anaphase promoting complex subunit 10
+PFF0600w	0.859859885832901	0.669024390243902	rgb(117,156,239)	Uncharacterized protein
+PF14_0270	0.484820965230929	0.40609756097561	rgb(118,239,117)	Apicoplast ribosomal protein L15, putative
+PFD0565c	0.515646081992735	0.650487804878049	rgb(117,220,239)	Uncharacterized protein; DEAD box ATP-dependent RNA helicase, putative
+PF14_0314	0.554411001556824	0.367073170731707	rgb(117,239,125)	Uncharacterized protein; Chromatin assembly factor 1 P55 subunit, putative
+PFL2615w	0.926647638816814	0.716341463414634	rgb(117,117,239)	Rifin
+PFC0675c	0.333497664763882	0.463658536585366	rgb(117,239,226)	Mitochondrial ribosomal protein L29/L47, putative
+PF11_0202	0.448391281785158	0.101707317073171	rgb(209,239,117)	Clathrin coat assembly protein, putative; Belongs to the adaptor complexes medium subunit family
+PFB0423c	0.148546964193046	0.572926829268293	rgb(117,239,192)	Uncharacterized protein
+GTP-CH	0.561883757135444	0.531951219512195	rgb(117,117,239)	GTP cyclohydrolase I
+PFA_0675w	0.756642449403217	0.887073170731707	rgb(117,239,184)	RESA-like protein with DnaJ domain, putative
+PFL1260w	0.82716658017644	0.784146341463415	rgb(117,117,239)	Uncharacterized protein; Hydrolase / phosphatase, putative
+PFD1005c	0.317151011935651	0.817317073170732	rgb(117,211,239)	Erythrocyte membrane protein 1, PfEMP1
+PF14_0720	0.70433316035288	0.580731707317073	rgb(117,239,156)	Uncharacterized protein
+PFD0415c	0.266242864556305	0.900731707317073	rgb(117,225,239)	Uncharacterized protein
+PFI0355c	0.562350804359107	0.302682926829268	rgb(117,119,239)	ATP-dependent protease HslVU, ATPase subunit; ATP-dependent heat shock protein, putative
+PFB0495w	0.148546964193046	0.183658536585366	rgb(117,239,194)	Conserved Plasmodium protein
+PF13_0117	0.798676699532953	0.349512195121951	rgb(164,239,117)	TBC domain containing protein
+PFE1265w	0.12893098079917	0.852926829268293	rgb(117,180,239)	G-protein coupled receptor, putative
+PFL0055c	0.198053969901401	0.561219512195122	rgb(117,117,239)	RESA-like protein with PHIST and DnaJ domains
+PFL1280w	0.109314997405293	0.361219512195122	rgb(117,117,239)	RAP protein, putative
+MAL7P1.25	0.822029060716139	0.272439024390244	rgb(239,155,117)	Cytoskeleton associated protein, putative
+MAL8P1.20	0.55394395433316	0.825609756097561	rgb(239,164,117)	Uncharacterized protein
+PF10_0412	0.488557343020239	0.852926829268293	rgb(226,239,117)	Uncharacterized protein; Topoisomerase, putative
+PF14_0386	0.703399065905553	0.192439024390244	rgb(117,239,132)	Uncharacterized protein; Adaptor complexes medium subunit family
+PF10_0173	0.357784120394395	0.17	rgb(239,225,117)	Conserved Plasmodium protein
+PF07_0138	0.305474831344058	0.176829268292683	rgb(239,190,117)	Rifin
+PF13_0003	0.361987545407369	0.87	rgb(179,239,117)	Erythrocyte membrane protein 1, PfEMP1
+PF11_0540a	0.357784120394395	0.149512195121951	rgb(180,239,117)	Conserved Plasmodium protein
+PF14_0278	0.808017644006227	0.436341463414634	rgb(117,239,118)	Uncharacterized protein; ATP-dependent DNA helicase, putative
+PFC0170c	0.253165542293721	0.705609756097561	rgb(117,239,215)	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex; Dihydrolipoamide acyltransferase, putative
+PFF0855c	0.730487804878049	0.914390243902439	rgb(117,146,239)	Rifin
+PFD0040c	0.514711987545407	0.108536585365854	rgb(117,237,239)	Rifin
+L22	0.405889984431759	0.452926829268293	rgb(117,239,154)	Organelle ribosomal protein L22/L17, putative; Belongs to the universal ribosomal protein uL22 family
+MAL13P1.322	0.672106901920083	0.689512195121951	rgb(239,130,117)	Uncharacterized protein; Splicing factor, putative
+PF14_0566	0.885080435910742	0.625121951219512	rgb(117,239,150)	Uncharacterized protein
+PFA_0150c	0.645485210171251	0.539756097560976	rgb(117,239,169)	Uncharacterized protein
+PF11_0038	0.70433316035288	0.73	rgb(222,239,117)	Plasmodium exported protein
+PFI1795c	0.115853658536585	0.320243902439024	rgb(117,117,239)	Uncharacterized protein
+MAL7P1.154	0.213933575505968	0.538780487804878	rgb(239,153,117)	Uncharacterized protein
+PFD1010w	0.318552153606642	0.108536585365854	rgb(117,210,239)	Rifin
+MAL13P1.127	0.338168137000519	0.736829268292683	rgb(178,171,0)	Putative uncharacterized protein
+PFF0155w	0.262506486766995	0.622682926829268	rgb(117,172,239)	Bcs1 protein, putative
+PFL2078w	0.926647638816814	0.074390243902439	rgb(117,117,239)	Conserved Plasmodium protein
+PFL1060c	0.625869226777374	0.928048780487805	rgb(117,117,239)	Uncharacterized protein
+Syn2	0.920108977685522	0.600243902439024	rgb(117,117,239)	SNARE protein
+PFL2440w	0.254099636741048	0.165121951219512	rgb(117,117,239)	DNA repair protein rhp16, putative
+PFL2155w	0.926647638816814	0.265609756097561	rgb(117,117,239)	Conserved Plasmodium protein
+1-cyspxn	0.601115723923197	0.549024390243902	rgb(239,210,117)	Uncharacterized protein; 1-cys peroxiredoxin
+PFE0790c	0.374130773222626	0.829024390243903	rgb(117,190,239)	BolA-like protein, putative; Belongs to the BolA/IbaG family
+PF10_0241	0.841645044110016	0.40219512195122	rgb(239,230,117)	Conserved Plasmodium protein
+PF11_0337	0.389543331603529	0.419268292682927	rgb(198,239,117)	Mitochondrial ribosomal protein L2
+PFE0050w	0.305941878567722	0.525121951219512	rgb(117,205,239)	Uncharacterized protein
+MAL13P1.212	0.76318111053451	0.627560975609756	rgb(150,101,255)	Sporozoite microneme protein (SPECT)
+PFL2010c	0.600181629475869	0.610975609756098	rgb(117,117,239)	Uncharacterized protein; DEAD/DEAH box helicase, putative
+PF10_0393	0.187778930980799	0.245121951219512	rgb(234,239,117)	Rifin
+PF10_0272	0.443720809548521	0.499268292682927	rgb(239,234,117)	60S ribosomal protein L3, putative; Belongs to the universal ribosomal protein uL3 family
+PFE0150c	0.579164504411002	0.36219512195122	rgb(117,203,239)	Uncharacterized protein; 4-diphosphocytidyl-2c-methyl-D-erythritol kinase (CMK), putative
+PFD1205w	0.298936170212766	0.764146341463415	rgb(117,209,239)	Putative uncharacterized protein
+PF11_0385	0.559548521017125	0.333414634146341	rgb(194,239,117)	UVB-resistance protein UVR8 homologue
+PF11_0504	0.639880643487286	0.774878048780488	rgb(185,239,117)	Plasmodium exported protein (Hyp11)
+PF13_0170	0.419434353918007	0.553414634146342	rgb(159,239,117)	Glutamine-tRNA ligase; Glutaminyl-tRNA synthetase, putative; Belongs to the class-I aminoacyl-tRNA synthetase family
+PF13_0015	0.513310845874416	0.801707317073171	rgb(177,239,117)	Uncharacterized protein
+MAL8P1.45	0.828567721847431	0.743658536585366	rgb(239,169,117)	Uncharacterized protein
+MAL13P1.31	0.495563051375195	0.44219512195122	rgb(239,128,117)	Uncharacterized protein; SAM dependent methyltransferase, putative; Belongs to the class I-like SAM-binding methyltransferase superfamily. RNA M5U methyltransferase family
+PF13_0099	0.581966787752984	0.704146341463415	rgb(165,239,117)	Uncharacterized protein
+PFF1325c	0.161624286455631	0.914390243902439	rgb(117,137,239)	C3h4-type ring finger protein, putative
+PFF0235c	0.447457187337831	0.718780487804878	rgb(117,165,239)	RAP protein, putative
+PF14_0311	0.161624286455631	0.361219512195122	rgb(117,239,124)	Uncharacterized protein; SF-assemblin, putative
+PFD0505c	0.135469641930462	0.477317073170732	rgb(117,221,239)	Protein phosphatase, putative
+PFD1220c	0.900492994291645	0.204146341463415	rgb(117,208,239)	Uncharacterized protein; Stevor
+PFB0215c	0.148546964193046	0.695853658536585	rgb(117,239,190)	Uncharacterized protein; 3'-5' exonuclease, putative
+PF14_0181	0.495096004151531	0.873414634146342	rgb(129,239,117)	Uncharacterized protein; Calmodulin, putative
+PF11_0058	0.541800726517904	0.589512195121951	rgb(221,239,117)	Uncharacterized protein; RNA polymerase subunit, putative
+PFE0855c	0.652023871302543	0.907560975609756	rgb(117,189,239)	Uncharacterized protein
+PFF0950w	0.495096004151531	0.914390243902439	rgb(117,143,239)	Uncharacterized protein
+PF14_0166	0.395147898287494	0.608536585365854	rgb(132,239,117)	Lysine-tRNA ligase, putative
+PFF0665c	0.818292682926829	0.297804878048781	rgb(117,154,239)	Syntaxin binding protein, putative; Belongs to the STXBP/unc-18/SEC1 family
+PFA_0155c	0.338168137000519	0.129024390243902	rgb(117,239,170)	Uncharacterized protein
+PF14_0031a	0.774390243902439	0.534878048780488	rgb(143,239,117)	Uncharacterized protein
+PF07_0120	0.786533471717696	0.299268292682927	rgb(239,188,117)	Allantoicase
+PFI1195c	0.881811105345096	0.31	rgb(117,117,239)	Thiamin pyrophosphokinase, putative
+PF11_0134	0.181240269849507	0.852926829268293	rgb(214,239,117)	Conserved Plasmodium protein
+PFI0080w	0.37086144265698	0.0948780487804878	rgb(117,127,239)	Stevor
+PF14_0400	0.161624286455631	0.135853658536585	rgb(117,239,133)	Ribosome biogenesis GTP-binding protein YsxC; GTP binding protein, putative
+PF14_0151	0.867799688635184	0.873414634146342	rgb(134,239,117)	RNA-binding protein Nova-1, putative
+PFD0600c	0.426440062272963	0.460243902439024	rgb(117,219,239)	Mitochondrial ribosomal protein S12, putative
+PfVAMP8	0.567021276595745	0.254390243902439	rgb(101,255,163)	SNARE protein
+PFC1040w	0.390477426050856	0.115365853658537	rgb(117,239,238)	Uncharacterized protein
+PF13_0122	0.644084068500259	0.63	rgb(162,239,117)	Uncharacterized protein; RRM containing cyclophilin
+PF11_0488	0.54133367929424	0.184634146341463	rgb(186,239,117)	Ser/Thr protein kinase
+PFI0010c	0.802413077322263	0.828536585365854	rgb(117,133,239)	Rifin
+PFI0035c	0.832771146860405	0.805121951219512	rgb(117,129,239)	Rifin
+PF11_0203	0.374130773222626	0.377317073170732	rgb(208,239,117)	Uncharacterized protein; Peptidase, putative; Belongs to the AAA ATPase family
+PFI1360c	0.782330046704722	0.394878048780488	rgb(117,117,239)	Serine/threonine-protein phosphatase
+PFD0465c	0.135469641930462	0.518292682926829	rgb(117,223,239)	Uncharacterized protein
+PFL1305c	0.760845874416191	0.371951219512195	rgb(117,117,239)	Conserved Plasmodium protein
+PFL0525w	0.920108977685522	0.873414634146342	rgb(117,117,239)	Conserved Plasmodium protein
+PF14_0737	0.874338349766477	0.538780487804878	rgb(117,239,160)	Uncharacterized protein; Lysophospholipase, putative
+PFF0355c	0.907031655422937	0.17	rgb(117,162,239)	Uncharacterized protein
+PF14_0769	0.259704203425013	0.880243902439024	rgb(117,239,165)	Rifin
+MAL13P1.89	0.22047223663726	0.197317073170732	rgb(239,145,117)	Uncharacterized protein
+PF07_0100	0.697794499221588	0.704634146341463	rgb(239,181,117)	Uncharacterized protein
+PFI0555c	0.874338349766477	0.0880487804878049	rgb(117,117,239)	Uncharacterized protein
+PFD0055w	0.76318111053451	0.108536585365854	rgb(117,235,239)	Rifin
+MAL8P1.56	0.725350285417748	0.287560975609756	rgb(239,170,117)	Uncharacterized protein
+PFL1065c	0.109314997405293	0.928048780487805	rgb(117,117,239)	Conserved Plasmodium protein
+PFD0350w	0.491359626362221	0.808536585365854	rgb(117,228,239)	Uncharacterized protein
+PFE0310c	0.900492994291645	0.245121951219512	rgb(117,199,239)	Uncharacterized protein
+PFL1010c	0.707602490918526	0.345609756097561	rgb(117,117,239)	Conserved Plasmodium protein
+PFF0935c	0.547405293201868	0.914390243902439	rgb(117,144,239)	Uncharacterized protein
+PFC0555c	0.142008303061754	0.750487804878049	rgb(117,239,224)	Uncharacterized protein
+PfABCK1	0.344706798131811	0.22609756097561	rgb(239,206,117)	Atypical/ABC1/ABC1-A protein kinase; ABC1 family, putative
+PF10_0015	0.194317592112091	0.791463414634146	rgb(239,212,117)	Acyl CoA binding protein, isoform 1, ACBP1
+PFC0795w	0.142008303061754	0.292926829268293	rgb(117,239,230)	Uncharacterized protein
+PF14_0497	0.815490399584847	0.129024390243902	rgb(117,239,143)	Uncharacterized protein; Aminomethyltransferase, putative
+PF08_0023	0.802413077322263	0.17	rgb(239,198,117)	Uncharacterized protein
+PFE1335c	0.221406331084587	0.470487804878049	rgb(117,179,239)	Uncharacterized protein
+PF07_0115	0.200856253243384	0.176829268292683	rgb(239,186,117)	Uncharacterized protein; Cation transporting ATPase, cation transporter
+PfCLS	0.907031655422937	0.504634146341463	rgb(117,158,239)	Uncharacterized protein; Mitochondrial cardiolipin synthase, PfCLS
+PFD0692c	0.793539180072652	0.250975609756098	rgb(117,216,239)	Calmodulin-like protein
+PFC0950c	0.590373637778931	0.315853658536585	rgb(117,239,232)	Uncharacterized protein; Peptidase, putative
+PfMAP1	0.622132848988064	0.49780487804878	rgb(117,239,122)	Mitogen-activated protein kinase 1
+PFD0860w	0.135469641930462	0.272439024390244	rgb(117,214,239)	Uncharacterized protein
+MAL8P1.71	0.638946549039959	0.832439024390244	rgb(239,171,117)	RNA binding protein, putative
+PF10_0267	0.680980799169694	0.752926829268293	rgb(239,231,117)	Mitochondrial ribosomal protein S22, putative
+PFD0455w	0.577296315516347	0.614878048780488	rgb(117,224,239)	40S ribosomal processing protein, putative
+PFB0715w	0.477815256875973	0.54219512195122	rgb(117,239,204)	DNA-directed RNA polymerase subunit beta; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates
+PFE0020c	0.900492994291645	0.224634146341463	rgb(117,206,239)	Rifin
+PF14_0315	0.573092890503373	0.23	rgb(117,239,127)	Uncharacterized protein
+PF11_0414	0.822029060716139	0.149512195121951	rgb(190,239,117)	Conserved Plasmodium protein
+PF07_0075	0.723949143746757	0.671951219512195	rgb(239,179,117)	Uncharacterized protein
+MAL13P1.48	0.22047223663726	0.40219512195122	rgb(239,142,117)	Uncharacterized protein
+PFL1365w	0.109314997405293	0.340731707317073	rgb(117,117,239)	Conserved Plasmodium protein
+PFC0530w	0.155085625324338	0.89390243902439	rgb(117,239,221)	Uncharacterized protein; Transporter, putative
+PFL2000w	0.423170731707317	0.081219512195122	rgb(117,117,239)	Mitochondrial carrier protein, putative
+PFB0610c	0.535729112610275	0.439268292682927	rgb(117,239,200)	Conserved Plasmodium protein
+FIKK7.1	0.230280228334198	0.667073170731707	rgb(239,150,117)	Serine/Threonine protein kinase, FIKK family
+PFL0735w	0.670238713025428	0.421219512195122	rgb(117,117,239)	Peptidyl-prolyl cis-trans isomerase; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides
+PF11_0413	0.769719771665802	0.149512195121951	rgb(191,239,117)	Conserved Plasmodium protein
+PFC0506w	0.31201349247535	0.198780487804878	rgb(117,239,219)	Uncharacterized protein
+MAL13P1.282	0.246626881162429	0.381707317073171	rgb(239,124,117)	Uncharacterized protein
+PF13_0033	0.522651790347691	0.285609756097561	rgb(173,239,117)	Uncharacterized protein; 26S proteasome regulatory subunit, putative; Belongs to the AAA ATPase family
+PFL2335w	0.6641670991178	0.779756097560976	rgb(117,117,239)	Conserved Plasmodium protein
+PF11_0325	0.514711987545407	0.149512195121951	rgb(199,239,117)	Conserved Plasmodium protein
+PFI1265w	0.285858847950182	0.921219512195122	rgb(117,117,239)	Uncharacterized protein
+PFC0145c	0.318552153606642	0.89390243902439	rgb(117,239,212)	Uncharacterized protein
+MAL8P1.75a	0.421769590036326	0.13390243902439	rgb(239,174,117)	Uncharacterized protein; GTPase, putative
+PFF0195c	0.12893098079917	0.163170731707317	rgb(117,168,239)	Uncharacterized protein
+PF11_0061	0.465204981837052	0.367560975609756	rgb(220,239,117)	Histone H4; Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling
+PF14_0746	0.235417747794499	0.612439024390244	rgb(117,239,163)	Uncharacterized protein
+MAL7P1.83	0.456798131811105	0.289024390243902	rgb(239,159,117)	Uncharacterized protein
+PF10_0161a	0.194317592112091	0.28609756097561	rgb(239,224,117)	Plasmodium exported protein
+PF14_0403	0.411961598339388	0.700731707317073	rgb(117,239,134)	Protein prenyltransferase alpha subunit, putative
+PFL1670c	0.664634146341464	0.218780487804878	rgb(117,117,239)	Conserved Plasmodium protein
+PFF0230c	0.194317592112091	0.101707317073171	rgb(117,167,239)	Uncharacterized protein; Glyoxalase I, putative
+PF14_0738	0.874338349766477	0.716341463414634	rgb(117,239,161)	Uncharacterized protein; Lysophospholipase, putative
+PFB0055c	0.451660612350804	0.740243902439024	rgb(117,239,185)	Rifin
+PFI1645c	0.39468085106383	0.674878048780488	rgb(117,117,239)	Uncharacterized protein; Histidyl-tRNA synthetase, putative
+PFF0400w	0.907031655422937	0.354390243902439	rgb(117,159,239)	Uncharacterized protein
+PFD0993c	0.135469641930462	0.251951219512195	rgb(117,213,239)	Uncharacterized protein
+PfSAMS	0.357317073170732	0.328048780487805	rgb(117,117,239)	S-adenosylmethionine synthase; Catalyzes the formation of S-adenosylmethionine from methionine and ATP
+PF10_0360	0.73562532433835	0.345609756097561	rgb(237,239,117)	Uncharacterized protein; Acetyl-CoA transporter, putative
+MAL8P1.161	0.691255838090296	0.825609756097561	rgb(239,163,117)	Uncharacterized protein
+PF13_0006	0.861261027503892	0.422682926829268	rgb(178,239,117)	Rifin
+PfCyP19	0.531992734820965	0.595365853658537	rgb(117,239,233)	Peptidyl-prolyl cis-trans isomerase; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides
+PFE0875c	0.802413077322263	0.191951219512195	rgb(117,188,239)	Uncharacterized protein
+PFF0770c	0.907031655422937	0.914390243902439	rgb(117,151,239)	Uncharacterized protein
+PFA_0295c	0.751037882719253	0.297317073170732	rgb(117,239,175)	Putative uncharacterized protein
+PF10_0148	0.710871821484172	0.644146341463415	rgb(239,220,117)	Uncharacterized protein
+PF08_0100	0.438116242864556	0.428048780487805	rgb(239,207,117)	RuvB-like DNA helicase, putative; Belongs to the RuvB family
+MAL13P1.69	0.397950181629476	0.217804878048781	rgb(239,144,117)	Septum formation protein MAF homologue, putative
+MAL8P1.85	0.740762843798651	0.407073170731707	rgb(239,175,117)	Uncharacterized protein
+PFI0350c	0.717410482615464	0.0880487804878049	rgb(117,121,239)	Prefoldin, alpha subunit
+PFF0035c	0.12893098079917	0.770975609756098	rgb(117,175,239)	Rifin
+PF14_0339	0.432978723404255	0.325609756097561	rgb(117,239,130)	Uncharacterized protein
+MAL8P1.25	0.207394914374676	0.490975609756098	rgb(239,166,117)	Uncharacterized protein
+PF11_0153	0.181240269849507	0.770975609756098	rgb(211,239,117)	Conserved Plasmodium protein
+PfLigI	0.699195640892579	0.459268292682927	rgb(239,118,117)	DNA ligase
+PF14_0155	0.424104826154645	0.238292682926829	rgb(133,239,117)	Uncharacterized protein; Serine C-palmitoyltransferase, putative
+PfSyn18	0.233549558899844	0.757317073170732	rgb(239,134,117)	Qa-SNARE protein, putative
+PFE1065w	0.599714582252206	0.907560975609756	rgb(117,187,239)	Uncharacterized protein
+PF13_0295	0.744499221587961	0.831463414634146	rgb(152,239,117)	Uncharacterized protein
+PF11_0530	0.174701608718215	0.641219512195122	rgb(181,239,117)	Conserved Plasmodium membrane protein
+PF14_0629	0.874338349766477	0.292926829268293	rgb(117,239,153)	Uncharacterized protein
+PF14_0470	0.808484691229891	0.492439024390244	rgb(117,239,140)	DNA replication related protein, putative
+PF07_0109a	0.227010897768552	0.832439024390244	rgb(239,183,117)	Putative uncharacterized protein
+PFE1615c	0.248962117280747	0.728048780487805	rgb(117,177,239)	Uncharacterized protein
+PFL0225c	0.920108977685522	0.108536585365854	rgb(117,117,239)	Conserved Plasmodium protein
+PF14_0618	0.662298910223145	0.101707317073171	rgb(117,239,151)	Uncharacterized protein
+PF11_0256	0.308744161909704	0.607560975609756	rgb(205,239,117)	Uncharacterized protein; Pyruvate dehydrogenase alpha subunit
+PF07_0009	0.488557343020239	0.832439024390244	rgb(239,176,117)	Uncharacterized protein; Chitinase, truncated
+PFD0145c	0.623533990659056	0.182682926829268	rgb(117,233,239)	Uncharacterized protein; Regulator of chromosome condensation, putative
+PFB0535w	0.213933575505968	0.12219512195122	rgb(117,239,196)	Uncharacterized protein; GDP-fructose:GMP antiporter, putative
+MAL13P1.218	0.769719771665802	0.231463414634146	rgb(239,117,117)	Uncharacterized protein; UDP-N-acetylglucosamine pyrophosphorylase, putative
+PFL2430c	0.926647638816814	0.28609756097561	rgb(117,117,239)	Uncharacterized protein; Eukaryotictranslation initiation factor 2b, subunit 2, putative; Belongs to the eIF-2B alpha/beta/delta subunits family
+PF14_0004	0.233549558899844	0.142682926829268	rgb(147,239,117)	Rifin
+MAL7P1.163	0.213933575505968	0.361219512195122	rgb(239,154,117)	Uncharacterized protein
+PFF1090c	0.390477426050856	0.914390243902439	rgb(117,141,239)	Uncharacterized protein
+AQP	0.404021795537104	0.270975609756098	rgb(196,239,117)	Uncharacterized protein; Aquaglyceroporin; Belongs to the MIP/aquaporin (TC 1.A.8) family
+Pfnek-4	0.815490399584847	0.374878048780488	rgb(239,147,117)	Protein kinase; Belongs to the protein kinase superfamily
+PFF0120w	0.334898806434873	0.712926829268293	rgb(117,174,239)	Uncharacterized protein; Geranylgeranyltransferase, putative
+PFA_0550w	0.610456668396471	0.309512195121951	rgb(117,239,181)	Uncharacterized protein
+PFL1555w	0.766917488323819	0.548048780487805	rgb(117,117,239)	Uncharacterized protein; Cytochrome B5, putative
+PFF0335c	0.750570835495589	0.171463414634146	rgb(117,163,239)	Uncharacterized protein
+MAL13P1.300	0.790269849507006	0.661707317073171	rgb(239,125,117)	Uncharacterized protein
+PFI0520w	0.822029060716139	0.0880487804878049	rgb(117,117,239)	Actin-like protein, putative; Belongs to the actin family
+PfTKL-4	0.161624286455631	0.340731707317073	rgb(117,239,128)	Protein kinase, putative
+PF13_0080	0.586637259989621	0.866585365853659	rgb(168,239,117)	Uncharacterized protein
+PF08_0021	0.607654385054489	0.214878048780488	rgb(239,196,117)	Uncharacterized protein; SPRY domain, putative
+PF14_0244	0.357784120394395	0.248536585365854	rgb(121,239,117)	Uncharacterized protein; ABC transporter, (EPP family)
+PF11_0010	0.436248053969901	0.852926829268293	rgb(225,239,117)	Rifin
+PFI1625c	0.404021795537104	0.341707317073171	rgb(117,117,239)	Uncharacterized protein; Organelle processing peptidase, putative; Belongs to the peptidase M16 family
+PFL1655c	0.611857810067462	0.486585365853659	rgb(117,117,239)	Uncharacterized protein; DNA polymerase epsilon subunit B, putative
+PFC0785c	0.477348209652309	0.236341463414634	rgb(117,239,228)	Proteasome regulatory protein, putative
+PF10_0363	0.493227815256876	0.537804878048781	rgb(236,239,117)	Uncharacterized protein; Pyruvate kinase
+PF11_0076	0.431577581733264	0.774878048780488	rgb(218,239,117)	Conserved Plasmodium protein
+PFC0010c	0.70433316035288	0.89390243902439	rgb(117,239,207)	Rifin
+PFI0210c	0.514711987545407	0.0880487804878049	rgb(117,126,239)	Cysteine repeat modular protein, putative
+PF14_0327	0.400285417747794	0.65390243902439	rgb(117,239,129)	Methionine aminopeptidase 2; Cotranslationally removes the N-terminal methionine from nascent proteins. The N-terminal methionine is often cleaved when the second residue in the primary sequence is small and uncharged (Met-Ala-, Cys, Gly, Pro, Ser, Thr, or Val)
+MAL7P1.14	0.815490399584847	0.572926829268293	rgb(239,149,117)	Uncharacterized protein
+MAL13P1.309	0.89862480539699	0.579756097560976	rgb(239,127,117)	14-3-3 protein, putative; Belongs to the 14-3-3 family
+PFE0775c	0.782797093928386	0.907560975609756	rgb(117,192,239)	Uncharacterized protein; Amino acid transporter, putative
+MAL13P1.47	0.423637778930981	0.386585365853658	rgb(239,139,117)	Mitochondrial ATP synthase delta subunit, putative
+PF10_0340	0.326491956408926	0.410975609756098	rgb(239,239,117)	Methionine-tRNA ligase, putative; Belongs to the class-I aminoacyl-tRNA synthetase family
+PF14_0210	0.442786715101194	0.873414634146342	rgb(126,239,117)	Uncharacterized protein
+MAL13P1.245	0.516580176440062	0.236829268292683	rgb(239,122,117)	Uncharacterized protein
+PFA_0490w	0.880877010897769	0.648048780487805	rgb(117,239,178)	Uncharacterized protein
+PF14_0416	0.514711987545407	0.129024390243902	rgb(117,239,138)	Zinc finger protein, putative
+PF11_0441a	0.8547223663726	0.852926829268293	rgb(188,239,117)	Uncharacterized protein; Alpha/beta hydrolase, putative
+PFE0255w	0.358718214841723	0.439268292682927	rgb(117,200,239)	Actin-like protein, putative; Belongs to the actin family
+PF10_0045	0.638012454592631	0.291463414634146	rgb(239,215,117)	Conserved Plasmodium membrane protein
+ETRAMP10.2	0.187778930980799	0.265609756097561	rgb(239,239,117)	Early transcribed membrane protein 10.2, etramp 10.2
+PF07_0114	0.200856253243384	0.709512195121951	rgb(239,185,117)	Uncharacterized protein
+PF13_0285	0.168162947586923	0.313414634146341	rgb(153,239,117)	Uncharacterized protein; Inositol-polyphosphate 5-phosphatase
+PFA_0160c	0.380202387130254	0.600243902439024	rgb(117,239,171)	Uncharacterized protein; Nucleoside transporter, putative
+PFE0645w	0.900492994291645	0.695853658536585	rgb(117,195,239)	Uncharacterized protein
+PF14_0410	0.285858847950182	0.135853658536585	rgb(117,239,135)	Uncharacterized protein
+PFF1060w	0.442786715101194	0.914390243902439	rgb(117,142,239)	Uncharacterized protein
+PFI1587c	0.115853658536585	0.456829268292683	rgb(117,117,239)	Uncharacterized protein
+PFC0230c	0.207394914374676	0.89390243902439	rgb(117,239,217)	Uncharacterized protein
+PF13_0246	0.168162947586923	0.443170731707317	rgb(158,239,117)	Uncharacterized protein
+PF10_0182	0.488557343020239	0.17	rgb(239,227,117)	Conserved Plasmodium protein
+PFI1150w	0.397483134405812	0.747073170731707	rgb(117,117,239)	Uncharacterized protein
+PFA_0520c	0.519849507005708	0.394878048780488	rgb(117,239,180)	Chromatin assembly factor 1 protein WD40 domain, putative
+PF14_0238	0.848183705241308	0.215365853658537	rgb(123,239,117)	Uncharacterized protein
+MAL8P1.33	0.480150492994292	0.223658536585366	rgb(239,168,117)	Obg family GTPase CgtA; GTP binding protein, putative
+PFF0825c	0.394213803840166	0.591463414634146	rgb(117,148,239)	Uncharacterized protein; Mitochondrial import receptor subunit tom40
+PFB0735c	0.887415672029061	0.89390243902439	rgb(117,239,205)	Conserved Plasmodium protein
+PF10_0400	0.848183705241308	0.695853658536585	rgb(230,239,117)	Rifin
+MAL13P1.345	0.240088220031137	0.251951219512195	rgb(239,133,117)	Uncharacterized protein
+PF08_0094	0.663700051894136	0.306585365853659	rgb(239,204,117)	Cullin-like protein, putative; Belongs to the cullin family
+PF08_0064	0.712740010378827	0.519756097560976	rgb(239,199,117)	Vacuolar protein-sorting protein, VPS2; Belongs to the SNF7 family
+MAL13P1.40	0.22047223663726	0.811951219512195	rgb(239,137,117)	Proteinase inhibitor, putative
+PFA0045c	0.155085625324338	0.422682926829268	rgb(117,239,168)	Rifin
+MAL13P1.227	0.632407887908666	0.332926829268293	rgb(239,119,117)	Uncharacterized protein; Ubiquitin conjugating enzyme, putative; Belongs to the ubiquitin-conjugating enzyme family
+PFI0505c	0.769719771665802	0.0880487804878049	rgb(117,118,239)	Uncharacterized protein; Selenide water dikinase, putative
+PFF0170w	0.12893098079917	0.231463414634146	rgb(117,170,239)	Calcium/proton exchanger; Calcium antiporter, putative; Belongs to the Ca(2+):cation antiporter (CaCA) (TC 2.A.19) family
+PF10_0289	0.612324857291126	0.69390243902439	rgb(239,235,117)	Adenosine deaminase
+PFF0325c	0.276050856253243	0.494878048780488	rgb(117,164,239)	Uncharacterized protein
+PF08_0077	0.857057602490919	0.462682926829268	rgb(239,201,117)	GDP-mannose 4,6-dehydratase, putative
+PFF1390w	0.122392319667878	0.832439024390244	rgb(117,136,239)	Uncharacterized protein
+MAL8P1.24	0.737960560456668	0.791463414634146	rgb(239,165,117)	Putative uncharacterized protein
+MAL7P1.132	0.683783082511676	0.381219512195122	rgb(239,148,117)	Uncharacterized protein
+MAL13P1.475	0.267176959003633	0.327073170731707	rgb(239,140,117)	Uncharacterized protein
+MAL13P1.140	0.701997924234562	0.245609756097561	rgb(187,255,101)	Uncharacterized protein
+PFI1825w	0.811286974571873	0.873414634146342	rgb(117,117,239)	Rifin
+PFL1050w	0.648754540736897	0.177317073170732	rgb(117,117,239)	Conserved Plasmodium protein
+PF14_0240	0.448858329008822	0.526585365853659	rgb(122,239,117)	60S ribosomal protein L21e, putative
+PF10_0081	0.473611831862999	0.300243902439024	rgb(239,216,117)	26S proteasome regulatory subunit 4, putative; Belongs to the AAA ATPase family
+PF07_0125	0.51751427088739	0.701219512195122	rgb(239,189,117)	Uncharacterized protein; tRNA pseudouridine synthase D, putative
+ROM9	0.263907628437987	0.532926829268293	rgb(117,193,239)	Uncharacterized protein; Rhomboid protease ROM9
+PFE1082c	0.12893098079917	0.873414634146342	rgb(117,185,239)	Uncharacterized protein
+PF14_0063	0.608588479501816	0.331951219512195	rgb(139,239,117)	Uncharacterized protein; ATP-dependent CLP protease, putative
+MAL13P1.56	0.22047223663726	0.306585365853659	rgb(239,143,117)	M1-family aminopeptidase
+PF14_0255	0.797275557861962	0.45390243902439	rgb(119,239,117)	CorA-like Mg2+ transporter protein, putative
+PF11_0179	0.181240269849507	0.224634146341463	rgb(210,239,117)	Conserved Plasmodium protein
+PF14_0019	0.619330565646082	0.135853658536585	rgb(145,239,117)	Uncharacterized protein
+PFA_0560c	0.880877010897769	0.784634146341463	rgb(117,239,183)	Uncharacterized protein
+PF10_0225	0.300804359107421	0.847073170731707	rgb(239,229,117)	Orotidine 5'-phosphate decarboxylase
+PF07_0080	0.481084587441619	0.493414634146341	rgb(239,180,117)	40S ribosomal protein S10, putative
+MAL8P1.75	0.456798131811105	0.187073170731707	rgb(239,173,117)	Uncharacterized protein; Ubiquitin-activating enzyme, putative
+PFB1010w	0.835106382978724	0.89390243902439	rgb(117,239,206)	Rifin
+PFE1155c	0.329761286974572	0.38609756097561	rgb(117,184,239)	Uncharacterized protein; Mitochondrial processing peptidase alpha subunit, putative
+PF10_0090	0.194317592112091	0.736829268292683	rgb(239,217,117)	Conserved Plasmodium protein
+PFC0995c	0.679579657498703	0.278780487804878	rgb(117,239,235)	O-acyltransferase; Acyl CoA:diacylglycerol acyltransferase, putative
+PF08_0127	0.561883757135444	0.620243902439024	rgb(239,209,117)	Uncharacterized protein
+PFB0105c	0.619330565646082	0.887073170731707	rgb(117,239,186)	Plasmodium exported protein (PHISTc)
+PFD0335c	0.867799688635184	0.108536585365854	rgb(117,230,239)	Uncharacterized protein
+PF10_0161	0.773456149455112	0.759268292682927	rgb(239,222,117)	Plasmodium exported protein (PHISTc)
+PF14_0477	0.425505967825636	0.401707317073171	rgb(117,239,142)	Signal recognition particle 54 kDa protein; Binds to the signal sequence of presecretory protein when they emerge from the ribosomes and transfers them to TRAM (translocating chain-associating membrane protein); Belongs to the GTP-binding SRP family. SRP54 subfamily
+PFL0915c	0.678178515827711	0.928048780487805	rgb(117,117,239)	Conserved Plasmodium protein
+PFF1125c	0.338168137000519	0.914390243902439	rgb(117,139,239)	RNA-binding protein mei2 homologue, putative
+MAL13P1.180	0.272781525687597	0.422682926829268	rgb(0,178,157)	Uncharacterized protein
+PfGLP-1	0.389076284379865	0.753414634146341	rgb(117,239,216)	Grx4 family monothiol glutaredoxin; 1-cys-glutaredoxin-like protein-1
+MAL13P1.267	0.246626881162429	0.777804878048781	rgb(239,123,117)	Uncharacterized protein
+PFA0030c	0.155085625324338	0.49780487804878	rgb(117,239,166)	Rifin
+PF13_0054	0.365256875973015	0.190487804878049	rgb(170,239,117)	Uncharacterized protein
+PF10_0313	0.187778930980799	0.518292682926829	rgb(239,237,117)	Mitochondrial preribosomal assembly protein rimM, putative
+PFL0425c	0.920108977685522	0.129024390243902	rgb(117,117,239)	Conserved Plasmodium protein
+PFI0330c	0.346107939802802	0.790487804878049	rgb(117,123,239)	Uncharacterized protein
+PF07_0069	0.436248053969901	0.832439024390244	rgb(239,178,117)	Uncharacterized protein
+PFL2145w	0.926647638816814	0.149512195121951	rgb(117,117,239)	Conserved Plasmodium protein
+MAL7P1.69	0.822029060716139	0.723170731707317	rgb(239,157,117)	Uncharacterized protein; Calmodulin, putative
+PFL1985c	0.174701608718215	0.081219512195122	rgb(117,117,239)	Conserved Plasmodium protein
+PF14_0285	0.904229372080955	0.480731707317073	rgb(117,239,120)	Uncharacterized protein; Exodeoxyribonuclease III, putative
+PFB0710c	0.887415672029061	0.805121951219512	rgb(117,239,202)	Conserved Plasmodium protein
+PFC1000w	0.174234561494551	0.616829268292683	rgb(117,239,236)	Regulator of initiation factor 2 (EIF2)
+PFI1095w	0.913570316554229	0.456829268292683	rgb(117,117,239)	Putative uncharacterized protein
+PF13_0267	0.795874416190971	0.702682926829268	rgb(155,239,117)	Uncharacterized protein
+PF10_0402	0.776258432797094	0.852926829268293	rgb(229,239,117)	Rifin
+PF14_0709	0.342371562013492	0.407560975609756	rgb(117,239,155)	Mitochondrial ribosomal protein L20, putative; Belongs to the bacterial ribosomal protein bL20 family
+PF14_0748	0.213933575505968	0.335365853658537	rgb(117,239,164)	Uncharacterized protein
+PF14_0282	0.181240269849507	0.873414634146342	rgb(117,239,119)	Uncharacterized protein; Belongs to the histidine acid phosphatase family
+PF13_0031	0.861261027503892	0.443170731707317	rgb(174,239,117)	Uncharacterized protein
+PF11_0020	0.383938764919564	0.852926829268293	rgb(224,239,117)	Rifin
+PFE0215w	0.642215879605605	0.443658536585366	rgb(117,201,239)	Uncharacterized protein; DEAD-box helicase 5; Belongs to the DEAD box helicase family
+PFE1245w	0.239621172807473	0.512926829268293	rgb(117,182,239)	Uncharacterized protein
+PF10_0153	0.442786715101194	0.550487804878049	rgb(239,221,117)	Chaperonin GroL; Heat shock protein 60; Belongs to the chaperonin (HSP60) family
+PFI0025c	0.122392319667878	0.0948780487804878	rgb(117,131,239)	Rifin
+PF11_0407	0.231214322781526	0.217804878048781	rgb(193,239,117)	NADPH:adrenodoxin oxidoreductase, mitochondrial; Adrenodoxin reductase, putative
+MAL13P1.115	0.305474831344058	0.443170731707317	rgb(255,175,101)	Putative uncharacterized protein
+PFL0515w	0.274182667358588	0.798292682926829	rgb(117,117,239)	Conserved Plasmodium protein
+PF08_0067	0.835106382978724	0.764146341463415	rgb(239,200,117)	Uncharacterized protein
+PFC0515c	0.485288012454593	0.363658536585366	rgb(117,239,220)	TPR Domain containing protein
+PFI0615w	0.913570316554229	0.415853658536585	rgb(117,117,239)	Uncharacterized protein
+PF14_0234	0.31201349247535	0.873414634146342	rgb(124,239,117)	Uncharacterized protein; DNA-directed DNA polymerase, putative
+MAL8P1.113	0.717410482615464	0.545121951219512	rgb(239,160,117)	Uncharacterized protein; Peptidase family C50, putative
+PfSPB	0.366658017644006	0.292926829268293	rgb(163,239,117)	Uncharacterized protein; Type I signal peptidase
+PF10_0270	0.691255838090296	0.84609756097561	rgb(239,232,117)	Conserved Plasmodium protein
+PFC1035w	0.266242864556305	0.115365853658537	rgb(117,239,237)	Uncharacterized protein
+PF08_0018	0.420835495588998	0.358292682926829	rgb(239,195,117)	Translation initiation factor-like protein
+PFI0865w	0.292864556305138	0.505609756097561	rgb(117,117,239)	XPA binding protein 1, putative
+PFB0590w	0.718344577062792	0.158780487804878	rgb(117,239,197)	Conserved Plasmodium protein
+PF10_0398	0.848183705241308	0.251951219512195	rgb(231,239,117)	Rifin
+MAL13P1.465	0.319019200830306	0.677804878048781	rgb(239,138,117)	Uncharacterized protein
+MAL13P1.201	0.272781525687597	0.40219512195122	rgb(0,28,178)	Uncharacterized protein
+PFD0330w	0.815490399584847	0.108536585365854	rgb(117,231,239)	Uncharacterized protein
+PFC0540w	0.142008303061754	0.791463414634146	rgb(117,239,222)	Uncharacterized protein
+PF11_0339	0.221873378308251	0.424146341463415	rgb(195,239,117)	Glycine cleavage system H protein, putative
+HslV	0.5212506486767	0.31780487804878	rgb(117,117,239)	ATP-dependent protease HslVU, peptidase subunit; Heat shock protein hslv
+PFI0340c	0.567021276595745	0.0880487804878049	rgb(117,122,239)	Uncharacterized protein
+PFD0340c	0.893954333160353	0.395365853658537	rgb(117,229,239)	Uncharacterized protein
+MIF	0.571224701608718	0.711463414634146	rgb(117,117,239)	Uncharacterized protein; Macrophage migration inhibitory factor-like protein
+nek-3	0.298936170212766	0.0880487804878049	rgb(117,117,239)	Serine/threonine-protein kinase, Pfnek-3
+MAL13P1.232	0.782797093928386	0.68219512195122	rgb(239,121,117)	Uncharacterized protein; Mog1 homolog, putative
+PFB0135w	0.148546964193046	0.716341463414634	rgb(117,239,187)	Conserved Plasmodium protein
+PF14_0551	0.874338349766477	0.272439024390244	rgb(117,239,148)	Uncharacterized protein
+PF11_0527	0.174701608718215	0.832439024390244	rgb(183,239,117)	Conserved Plasmodium protein
+PF11_0077	0.62540217955371	0.663658536585366	rgb(216,239,117)	Uncharacterized protein; DEAD/DEAH box helicase, putative
+PFI1185c	0.913570316554229	0.668536585365854	rgb(117,117,239)	Uncharacterized protein
+PFL1790w	0.371795537104307	0.549512195121951	rgb(117,117,239)	Uncharacterized protein; Ubiquitin-activating enzyme, putative
+PFL0450c	0.585703165542294	0.657317073170732	rgb(117,117,239)	Conserved Plasmodium protein
+PFB0160w	0.85098598858329	0.515853658536585	rgb(117,239,189)	ERCC1 nucleotide excision repair protein, putative
+PF10_0028	0.538531395952257	0.630975609756098	rgb(239,214,117)	RNA binding protein, putative
+PF08_0006	0.367592112091334	0.503170731707317	rgb(239,193,117)	Uncharacterized protein; Prohibitin, putative
+PF07_0113	0.615594187856772	0.373414634146341	rgb(239,184,117)	Uncharacterized protein
+PFL1710c	0.300337311883757	0.377317073170732	rgb(117,117,239)	Uncharacterized protein; TetQ GTPase
+PFL0750w	0.802413077322263	0.928048780487805	rgb(117,117,239)	Conserved Plasmodium protein
+PFF1405c	0.122392319667878	0.648048780487805	rgb(117,134,239)	Uncharacterized protein
+PF14_0169	0.671639854696419	0.873414634146342	rgb(131,239,117)	Uncharacterized protein
+PF08_0011	0.438116242864556	0.521219512195122	rgb(239,194,117)	Uncharacterized protein; Leucine-tRNA ligase; Belongs to the class-I aminoacyl-tRNA synthetase family
+MAL7P1.150	0.408692267773742	0.607073170731707	rgb(239,152,117)	Uncharacterized protein; Cysteine desulfurase, putative
+MAL13P1.319	0.291463414634146	0.245121951219512	rgb(239,129,117)	Uncharacterized protein; Indole-3-glycerol-phosphate synthase, putative
+PFA_0180w	0.653892060197198	0.588048780487805	rgb(117,239,174)	Uncharacterized protein; ATP-dependent RNA Helicase, putative
+PFF0695w	0.668837571354437	0.596829268292683	rgb(117,153,239)	Uncharacterized protein
+TTL	0.786533471717696	0.412926829268293	rgb(117,194,239)	Tubulin-tyrosine ligase, putative
+PF14_0189	0.804281266216918	0.594878048780488	rgb(128,239,117)	Putative uncharacterized protein
+PfPK9	0.168162947586923	0.811951219512195	rgb(167,239,117)	Serine/threonine protein kinase; Belongs to the protein kinase superfamily
+PFC0885c	0.142008303061754	0.115365853658537	rgb(117,239,231)	Uncharacterized protein
+PFL1625w	0.109314997405293	0.142682926829268	rgb(117,117,239)	Conserved Plasmodium protein
+PFA_0500w	0.880877010897769	0.736829268292683	rgb(117,239,179)	Sulfhydryl oxidase; Hepatopoietin-like protein, putative
+PF11_0524	0.62913855734302	0.510975609756098	rgb(184,239,117)	Uncharacterized protein; Lsm4 homologue, putative
+Plrx	0.525454073689673	0.892439024390244	rgb(117,239,214)	Uncharacterized protein; Plasmoredoxin
+PF14_0077	0.261572392319668	0.654878048780488	rgb(137,239,117)	Plasmepsin-2; Belongs to the peptidase A1 family
+PFF0850c	0.8547223663726	0.914390243902439	rgb(117,147,239)	Uncharacterized protein; Stevor
+PFF0150c	0.0700830306175402	0.589024390243903	rgb(117,173,239)	Uncharacterized protein
+PF11_0251	0.274649714582252	0.291951219512195	rgb(206,239,117)	Uncharacterized protein; Endoplasmic reticulum oxidoreductin, putative
+PF14_0539	0.874338349766477	0.149512195121951	rgb(117,239,147)	Mitochondrial ribosomal protein L28, putative
+PF14_0020	0.566087182148417	0.130487804878049	rgb(144,239,117)	Uncharacterized protein; Choline kinase
+PFL2480w	0.926647638816814	0.525121951219512	rgb(117,117,239)	Conserved Plasmodium protein
+PF14_0310	0.161624286455631	0.538780487804878	rgb(117,239,123)	Uncharacterized protein
+MAL13P1.342a	0.246626881162429	0.272439024390244	rgb(239,132,117)	Putative uncharacterized protein
+PFF0740c	0.907031655422937	0.852926829268293	rgb(117,152,239)	Uncharacterized protein
+PFC0035w	0.423170731707317	0.89390243902439	rgb(117,239,210)	Rifin
+PFB0625w	0.887415672029061	0.757317073170732	rgb(117,239,201)	Conserved Plasmodium protein
+PF14_0208	0.233549558899844	0.85390243902439	rgb(127,239,117)	Mitochondrial protein import protein TIM13, putative
+PFI1800w	0.115853658536585	0.210975609756098	rgb(117,117,239)	Uncharacterized protein; Lysophospholipase, putative
+PFD0050w	0.567021276595745	0.108536585365854	rgb(117,236,239)	Rifin
+PF14_0503	0.867799688635184	0.129024390243902	rgb(117,239,144)	Uncharacterized protein
+PF14_0725	0.710871821484172	0.40219512195122	rgb(117,239,158)	Uncharacterized protein; Tubulin, putative; Belongs to the tubulin family
+PFL0495c	0.688920601971977	0.347560975609756	rgb(117,117,239)	Uncharacterized protein; ABC transporter, (TAP family)
+PF14_0523	0.855656460819927	0.183658536585366	rgb(117,239,145)	Protein phosphatase, putative
+PFC0715c	0.142008303061754	0.381707317073171	rgb(117,239,227)	Uncharacterized protein
+PF11_0288	0.181240269849507	0.156341463414634	rgb(203,239,117)	Conserved Plasmodium protein
+PFF1215w	0.213933575505968	0.914390243902439	rgb(117,138,239)	Uncharacterized protein; Sphingomyelin synthase, putative
+PF08_0132	0.336766995329528	0.488536585365854	rgb(239,211,117)	Uncharacterized protein; Glutamate dehydrogenase, putative
+PF10_0394	0.606253243383498	0.156341463414634	rgb(232,239,117)	Rifin
+PF10_0404	0.638946549039959	0.852926829268293	rgb(227,239,117)	Rifin
+PF13_0257	0.393279709392839	0.518292682926829	rgb(157,239,117)	Glutamate--tRNA ligase, putative
+PF13_0330	0.420368448365335	0.505609756097561	rgb(148,239,117)	ATP-dependent DNA helicase, putative; Belongs to the RuvB family
+PF14_0068	0.503502854177478	0.571463414634146	rgb(138,239,117)	Uncharacterized protein; Fibrillarin, putative
+MAL7P1.81	0.506772184743124	0.478780487804878	rgb(239,158,117)	Eukaryotic translation initiation factor 3 subunit I; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation
+PFI1615w	0.710404774260509	0.117317073170732	rgb(117,117,239)	Uncharacterized protein
+PFL0105w	0.619330565646082	0.081219512195122	rgb(117,117,239)	Conserved Plasmodium protein
+PF14_0047	0.867799688635184	0.600243902439024	rgb(142,239,117)	Uncharacterized protein
+PFI0750c	0.531525687597302	0.695853658536585	rgb(117,117,239)	Uncharacterized protein
+PF08_0001	0.16536066424494	0.598780487804878	rgb(239,191,117)	Putative uncharacterized protein 2255.m00020
+PF11_0075	0.553009859885833	0.170487804878049	rgb(219,239,117)	Conserved Plasmodium protein
+Rab5a	0.717877529839128	0.327560975609756	rgb(117,239,195)	Uncharacterized protein; Rab5a, GTPase
+PF14_0564	0.554411001556824	0.805121951219512	rgb(117,239,149)	Uncharacterized protein
+PFF0390w	0.907031655422937	0.33390243902439	rgb(117,160,239)	Uncharacterized protein
+Rab5c	0.619797612869746	0.240243902439024	rgb(117,239,176)	Uncharacterized protein; Rab5c, GTPase
+PFE0060w	0.289128178515828	0.563658536585366	rgb(117,204,239)	PIESP2 erythrocyte surface protein
+PFL1195w	0.109314997405293	0.552439024390244	rgb(117,117,239)	Conserved Plasmodium protein
+PFL2630w	0.926647638816814	0.825609756097561	rgb(117,117,239)	Rifin
+PFA_0165c	0.301738453554748	0.26219512195122	rgb(117,239,173)	Uncharacterized protein
+MAL13P1.107	0.331629475869227	0.634390243902439	rgb(255,0,0)	Putative uncharacterized protein
+PF13_0043	0.546938245978205	0.290975609756098	rgb(172,239,117)	Uncharacterized protein; CCAAT-binding transcription factor, putative
+PFC0030c	0.475480020757654	0.89390243902439	rgb(117,239,209)	Rifin
+MAL13P1.145	0.756642449403217	0.723170731707317	rgb(14,178,0)	Uncharacterized protein
+PFL2180w	0.458199273482096	0.435853658536585	rgb(117,117,239)	Mitochondrial ribosomal protein L3, putative
+PF11_0140	0.490425531914894	0.695853658536585	rgb(213,239,117)	Conserved Plasmodium protein
+PF14_0461	0.76318111053451	0.129024390243902	rgb(117,239,139)	Uncharacterized protein
+PF11_0324	0.768318629994811	0.603170731707317	rgb(200,239,117)	Conserved Plasmodium protein
+PFF0180w	0.151816294758692	0.594878048780488	rgb(117,169,239)	Uncharacterized protein; Phenylalanyl-tRNA synthetase subunit
+PFE1160w	0.266709911779969	0.347560975609756	rgb(117,183,239)	Uncharacterized protein
+PPR	0.634276076803321	0.26609756097561	rgb(141,239,117)	PPR repeat protein
+PFC0055w	0.37086144265698	0.89390243902439	rgb(117,239,211)	Uncharacterized protein
+PF13_0021	0.750103788271925	0.195365853658537	rgb(175,239,117)	Small heat shock protein, putative; Belongs to the small heat shock protein (HSP20) family
+PF13_0068	0.723949143746757	0.866585365853659	rgb(169,239,117)	Mitochondrial ribosomal protein S35, putative
+PF08_0087	0.579631551634665	0.454878048780488	rgb(239,203,117)	Importin subunit alpha; Karyopherin alpha; Belongs to the importin alpha family
+PFI1440w	0.115853658536585	0.675365853658537	rgb(117,117,239)	Uncharacterized protein
+PFF0495w	0.395147898287494	0.347073170731707	rgb(117,157,239)	Mitochondrial ribosomal protein L19, putative
+PFD0690c	0.671639854696419	0.801707317073171	rgb(117,218,239)	Uncharacterized protein
+PFD0375w	0.893954333160353	0.559268292682927	rgb(117,226,239)	Uncharacterized protein
+PF14_0273	0.168162947586923	0.67	rgb(117,239,117)	Uncharacterized protein; rRNA (Adenosine-2'-O-)-methyltransferase, putative
+PF13_0302	0.914971458225221	0.371463414634146	rgb(149,239,117)	Uncharacterized protein; Phosphatase 2A regulatory subunit-related protein, putative
+PF10_0373	0.184976647638817	0.463170731707317	rgb(235,239,117)	Uncharacterized protein; GDP dissociation inhibitor domain containing protein
+PFI0655c	0.913570316554229	0.436341463414634	rgb(117,117,239)	Uncharacterized protein
+PF10_0307	0.586637259989621	0.84609756097561	rgb(239,236,117)	Conserved Plasmodium protein
+PF14_0731	0.258770108977686	0.584634146341463	rgb(117,239,159)	Putative uncharacterized protein PF14_0731
+PFI0235w	0.653425012973534	0.395365853658537	rgb(117,124,239)	Replication factor A-related protein, putative
+PF10_0179	0.410093409444733	0.17	rgb(239,226,117)	Conserved Plasmodium protein
+PF13_0297	0.168162947586923	0.204146341463415	rgb(150,239,117)	Uncharacterized protein
+gS	0.379735339906591	0.695853658536585	rgb(117,197,239)	Glutathione synthetase
+PF11_0117	0.601115723923197	0.444634146341463	rgb(215,239,117)	Uncharacterized protein; Replication factor C subunit 5, putative
+PFD0090c	0.367592112091334	0.565609756097561	rgb(117,234,239)	Uncharacterized protein
+PFB0265c	0.819693824597821	0.543170731707317	rgb(117,239,191)	Uncharacterized protein; DNA repair endonuclease, putative
+PFC0635c	0.607187337830825	0.811951219512195	rgb(117,239,225)	Uncharacterized protein; eIF4E; Belongs to the eukaryotic initiation factor 4E family
+PF13_0268	0.410560456668396	0.488536585365854	rgb(154,239,117)	60S ribosomal protein L17, putative; Belongs to the universal ribosomal protein uL22 family
+PFL1045w	0.468474312402698	0.630487804878049	rgb(117,117,239)	Uncharacterized protein
+PFI1305w	0.115853658536585	0.811951219512195	rgb(117,117,239)	Uncharacterized protein
+MAL8P1.15	0.451660612350804	0.809512195121951	rgb(239,162,117)	Uncharacterized protein
+PFE0590w	0.548806434872859	0.762682926829268	rgb(117,198,239)	Uncharacterized protein
+PF14_0414	0.633809029579658	0.277317073170732	rgb(117,239,137)	Uncharacterized protein
+PFI0015c	0.122392319667878	0.627560975609756	rgb(117,132,239)	Rifin
+Pfcrk-3	0.528256357031655	0.554390243902439	rgb(117,215,239)	Uncharacterized protein; Cyclin-dependent kinase, putative
+PF08_0097	0.519382459782045	0.575853658536585	rgb(239,205,117)	Uncharacterized protein; Belongs to the MIP/aquaporin (TC 1.A.8) family
+MAL13P1.196	0.705267254800208	0.509512195121951	rgb(101,199,255)	Protein kinase, putative
+PK7	0.663233004670472	0.555853658536585	rgb(117,239,199)	Protein kinase, putative
+MAL13P1.390	0.158354955889984	0.400243902439024	rgb(239,135,117)	Uncharacterized protein; Aminomethyltransferase, putative
+PFI0050c	0.246626881162429	0.0948780487804878	rgb(117,128,239)	Rifin
+PF13_0156	0.464270887389725	0.256341463414634	rgb(160,239,117)	Proteasome subunit beta type; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH; Belongs to the peptidase T1B family
